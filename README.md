@@ -1,4 +1,3 @@
-github-api-proxy
-================
+# API Proxy
 
-A proxy for the GitHub API that will cache the results the best it can to avoid rate limits
+A proxy for the APIs that will cache their results the best it can to avoid rate limits
