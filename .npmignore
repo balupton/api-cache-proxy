@@ -1,0 +1,10 @@
+.travis*
+Cakefile
+Makefile
+History.md
+Procfile
+
+docs/
+src/
+out/test/
+test/
